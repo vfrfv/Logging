@@ -1,0 +1,7 @@
+C:\проэкты\Logging\Logging\bin\Debug\Logging.exe.config
+C:\проэкты\Logging\Logging\bin\Debug\Logging.exe
+C:\проэкты\Logging\Logging\bin\Debug\Logging.pdb
+C:\проэкты\Logging\Logging\obj\Debug\Logging.csproj.AssemblyReference.cache
+C:\проэкты\Logging\Logging\obj\Debug\Logging.csproj.CoreCompileInputs.cache
+C:\проэкты\Logging\Logging\obj\Debug\Logging.exe
+C:\проэкты\Logging\Logging\obj\Debug\Logging.pdb
